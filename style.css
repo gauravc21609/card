@@ -95,6 +95,7 @@ main p {
 
 main h2 {
   margin: 0.8em 0;
+  font-weight: 700;
 }
 
 main h2 + p{
