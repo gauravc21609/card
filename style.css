@@ -54,7 +54,7 @@ body {
 
 .content {
   width: min(24rem, 96vw);
-  height: min(40em, 32em);
+  height: min(40em, 31em);
   padding: 1.2em;
   margin: auto;
   border-radius: 24px;
